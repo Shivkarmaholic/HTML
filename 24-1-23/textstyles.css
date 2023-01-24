@@ -1,0 +1,41 @@
+p{
+    font-family: Arial;  
+    margin-top: 0px;
+    margin-bottom: 0px;  
+}
+.youtube-title{
+    font-weight: bold;
+    width: 300px;
+    margin-bottom: 10px;
+}
+.youtube-stats{    
+    margin-bottom: 20px;
+}
+.youtube-author{    
+    margin-bottom: 20px;  
+}
+.youtube-description{      
+    width: 350px;
+}
+hr{ 
+    margin-top: 20px;
+    margin-bottom: 20px; 
+} 
+
+.apple-offer{    
+    text-align: center ;
+    background-color: red; 
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px; 
+    padding-top: 16px;
+    padding-bottom: 16px;    
+}
+.shop-now-btn{
+    color: white;
+    text-decoration: none;
+}
+.shop-now-btn:hover{
+     text-decoration: underline; 
+     color: white;
+}
